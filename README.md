@@ -1,10 +1,6 @@
 # Priorização de Áreas para Recuperação Ambiental no Vale do Jequitinhonha (MG)
 
-<p align="center">
-  <img src="imagens/Banner.png" width="100%">
-</p>
-
-![](imagens/Banner.png)
+![Banner](./imagens/Banner.png)
 
 ## Visão Geral
 
