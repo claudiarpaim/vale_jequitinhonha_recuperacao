@@ -4,6 +4,8 @@
   <img src="imagens/Banner.png" width="100%">
 </p>
 
+![](imagens/Banner.png)
+
 ## Visão Geral
 
 Este projeto apresenta uma metodologia de **Análise Multicritério em Sistema de Informação Geográfica (SIG)** para identificação de áreas prioritárias para recuperação ambiental no Vale do Jequitinhonha, Minas Gerais.
