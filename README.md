@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="imagens/Banner.png" alt="Banner do Projeto" width="100%">
+<img src="images/Banner.png" alt="Banner do Projeto" width="100%">
 
 </div>
 
