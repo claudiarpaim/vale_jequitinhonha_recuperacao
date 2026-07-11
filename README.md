@@ -173,9 +173,7 @@ vale-jequitinhonha-priorizacao-recuperacao-ambiental/
 │   ├── resultado_principal.png           
 │   ├── alta_prioridade.png                  
 │   ├── grafico_barras.png                
-│
-├── qgis/                
-│   └── recuperação_ambiental_jequitinhonha.qgz                
+               
 
 
 
