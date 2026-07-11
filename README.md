@@ -42,11 +42,21 @@ O estudo foi desenvolvido no Vale do Jequitinhonha, nordeste do estado de Minas 
 
 A região vem se destacando nacionalmente pela expansão da mineração de lítio, tornando-se estratégica para estudos de planejamento e recuperação ambiental.
 
+<div align="center">
 
+<img src="images/area_estudo.png" alt="Área do Estudo" width="100%">
+
+</div>
 
 # Metodologia
 
 O fluxo metodológico foi composto pelas seguintes etapas:
+
+<div align="center">
+
+<img src="images/fluxograma.png" alt="Fluxograma Metodológico" width="100%">
+
+</div>
 
 1. Delimitação da área de estudo;
 2. Aquisição das bases cartográficas;
@@ -100,7 +110,19 @@ O projeto gerou nove produtos cartográficos:
 
 O modelo classificou toda a área de estudo em cinco níveis de prioridade para recuperação ambiental.
 
+<div align="center">
+
+<img src="images/resultado_principal.png" alt="Resultados Obtidos" width="100%">
+
+</div>
+
 ### Distribuição das Classes
+
+<div align="center">
+
+<img src="images/grafico_barras.png" alt="Área por Classes" width="100%">
+
+</div>
 
 | Classe | Área (km²) | Percentual |
 |---------|-----------:|-----------:|
@@ -111,6 +133,12 @@ O modelo classificou toda a área de estudo em cinco níveis de prioridade para 
 | Muito Alta | 0,452 | 0,05 % |
 
 Foram identificadas **302 áreas classificadas como Muito Alta Prioridade**, distribuídas em três municípios.
+
+<div align="center">
+
+<img src="images/alta_prioridade.png" alt="Alta Prioridade de Recuparação" width="100%">
+
+</div>
 
 ### Distribuição da Classe Muito Alta
 
