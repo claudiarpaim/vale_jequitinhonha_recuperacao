@@ -212,7 +212,7 @@ Como continuidade deste projeto, pretende-se:
 O relatório completo encontra-se disponível na pasta:
 
 ```
-https://github.com/claudiarpaim/vale_jequitinhonha_recuperacao/blob/main/doc/Relatorio_Tecnico.pdf
+**[Baixar Relatório Técnico (PDF)](doc/Relatorio_Tecnico.pdf)**
 ```
 
 
