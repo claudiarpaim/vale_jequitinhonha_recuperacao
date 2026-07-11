@@ -34,11 +34,15 @@ Desenvolver um modelo espacial capaz de identificar áreas prioritárias para re
 
 # Área de Estudo
 
-O estudo foi desenvolvido no Vale do Jequitinhonha, nordeste do estado de Minas Gerais, abrangendo parte dos municípios de:
+O estudo foi desenvolvido no Vale do Jequitinhonha, nordeste do estado de Minas Gerais, abrangendo os municípios de:
 
 - Medina
 - Araçuaí
 - Coronel Murta
+- Salinas
+- Rubelita
+- Virgem da Lapa
+- Itinga
 
 A região vem se destacando nacionalmente pela expansão da mineração de lítio, tornando-se estratégica para estudos de planejamento e recuperação ambiental.
 
