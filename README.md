@@ -158,26 +158,24 @@ Os resultados demonstram que a priorização ambiental depende da combinação e
 # Estrutura do Repositório
 
 
-vale-jequitinhonha-priorizacao-recuperacao-ambiental/
-
-vale-jequitinhonha-priorizacao-recuperacao-ambiental/
+vale-jequitinhonha-priorizacao-recuperacao-ambiental/                  
 │
-├── README.md
-├── LICENSE
+├── README.md                
+├── LICENSE                 
 │
-├── docs/
-│   └── Relatorio_Tecnico.pdf
+├── docs/                
+│   └── Relatorio_Tecnico.pdf            
 │
-├── imagens/
-│   ├── Banner.png
-│   ├── area_estudo.png
-│   ├── fluxograma.png
-│   ├── resultado_principal.png
-│   ├── alta_prioridade.png
-│   ├── grafico_barras.png
+├── imagens/                 
+│   ├── Banner.png            
+│   ├── area_estudo.png               
+│   ├── fluxograma.png            
+│   ├── resultado_principal.png           
+│   ├── alta_prioridade.png                  
+│   ├── grafico_barras.png                
 │
-├── qgis/
-│   └── recuperação_ambiental_jequitinhonha.qgz
+├── qgis/                
+│   └── recuperação_ambiental_jequitinhonha.qgz                
 
 
 
