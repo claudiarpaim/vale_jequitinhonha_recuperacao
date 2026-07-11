@@ -211,9 +211,9 @@ Como continuidade deste projeto, pretende-se:
 
 O relatório completo encontra-se disponível na pasta:
 
-```
+
 **[Baixar Relatório Técnico (PDF)](doc/Relatorio_Tecnico.pdf)**
-```
+
 
 
 
