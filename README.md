@@ -212,7 +212,7 @@ Como continuidade deste projeto, pretende-se:
 O relatório completo encontra-se disponível na pasta:
 
 ```
-"C:\projeto_vale_litio\11_documentacao\Relatorio_Tecnico.docx"
+https://github.com/claudiarpaim/vale_jequitinhonha_recuperacao/blob/main/doc/Relatorio_Tecnico.pdf
 ```
 
 
