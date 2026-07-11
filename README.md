@@ -105,8 +105,7 @@ O projeto gerou nove produtos cartográficos:
 - Figura 5 – Declividade reclassificada
 - Figura 6 – Uso e cobertura da terra
 - Figura 7 – Mapa de prioridade para recuperação ambiental
-- Figura 8 – Áreas classificadas como Alta e Muito Alta Prioridade
-- Figura 9 – Áreas classificadas como Muito Alta Prioridade (Classe 5)
+- Figura 8 – Áreas classificadas como Muito Alta Prioridade (Classe 5)
 
 
 
